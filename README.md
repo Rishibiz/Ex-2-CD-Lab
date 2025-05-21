@@ -1,6 +1,7 @@
 # GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
 ## Reg No:212223043005
 ## Name :Rishi chandran R
+## Date :19.3.2025
 # AIM
  To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
